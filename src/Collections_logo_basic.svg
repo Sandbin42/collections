@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="74mm"
+   height="52mm"
+   viewBox="0 0 74 52"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Collections_logo_basic.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="128.40758"
+     inkscape:cy="88.940606"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1331"
+     inkscape:window-height="619"
+     inkscape:window-x="52"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs3716" />
+  <metadata
+     id="metadata3719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g4556"
+       transform="matrix(1.082305,0,0,0.88782093,-4.8909576,5.1486813)">
+      <g
+         id="g4561"
+         transform="matrix(1.2185711,0,0,1.3153288,-7.4187589,-15.326944)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 11.906251,35.860417 C 25.929169,44.0625 52.916669,40.8875 52.916669,40.8875 l -0.926042,-9.524999 -8.868157,-3.403311 -4.126607,-0.532009 -11.21461,7.639486 0.892969,2.745052 3.075781,1.223698 6.258063,-2.526226 1.94402,-1.971691 -1.94402,1.971691 -5.99348,2.526226 -3.340364,-1.223698 -0.628386,-2.745052 -14.948959,-3.836458 -1.921776,2.04961 z"
+           id="path3738"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <rect
+           id="rect3740"
+           width="7.4083333"
+           height="11.773958"
+           x="55.16563"
+           y="30.568752"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.26499999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.26499999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4547"
+           cx="57.613026"
+           cy="39.96146"
+           rx="1.1244792"
+           ry="1.190625" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.12253761px;line-height:1.25;font-family:'AR BERKLEY';-inkscape-font-specification:'AR BERKLEY, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42806342"
+       x="1.3242174"
+       y="22.566439"
+       id="text4551"
+       transform="scale(0.98088211,1.0194905)"><tspan
+         sodipodi:role="line"
+         id="tspan4549"
+         x="1.3242174"
+         y="22.566439"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.12253761px;font-family:'AR BERKLEY';-inkscape-font-specification:'AR BERKLEY, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.42806342">Collections</tspan></text>
+  </g>
+</svg>
